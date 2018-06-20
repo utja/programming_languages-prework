@@ -9,4 +9,5 @@ def reformat_languages(languages)
         new_hash[name] = {style: [style], type_kv: type_kv[:type]}
       end
     end
+  end
 end
